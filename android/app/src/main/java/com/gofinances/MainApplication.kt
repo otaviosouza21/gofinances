@@ -1,4 +1,4 @@
-package com.uofinancesndefined
+package com.gofinances
 
 import android.app.Application
 import android.content.res.Configuration

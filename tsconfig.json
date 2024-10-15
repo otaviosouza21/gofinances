@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "types": ["styled-components", "styled-components-react-native"],
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "noImplicitAny": false,
+  },
+  "include": ["src/**/*"],
+  "extends": "expo/tsconfig.base"
+}

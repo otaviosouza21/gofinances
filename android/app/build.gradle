@@ -109,9 +109,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.uofinancesndefined"
+    namespace "com.gofinances"
     defaultConfig {
-        applicationId "com.uofinancesndefined"
+        applicationId "com.gofinances"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
